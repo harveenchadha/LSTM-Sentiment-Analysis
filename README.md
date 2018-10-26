@@ -36,7 +36,7 @@ mv converted-checkpoints models
 ```
 
 ### Docker
-With Docker, you could just mount the repository and exec it.
+With Docker, you could just mount the repository and execute it.
 
 1. Install Docker. Follow the [docker guide](https://docs.docker.com/get-started/#prepare-your-docker-environment).
 
